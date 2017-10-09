@@ -1,5 +1,5 @@
 # Angular2DisplayingData
-
+This project is for displaying data in Angular. I used template expression, interpolation, sturtual directives and attrbiute directives.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Development server
